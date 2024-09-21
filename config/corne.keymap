@@ -16,8 +16,8 @@
             compatible = "zmk,behavior-hold-tap";
             label = "HRM";
             #binding-cells = <2>;
-            tapping-term-ms = <300>;
-            require-prior-idle-ms = <25>;
+            tapping-term-ms = <1000>;
+            require-prior-idle-ms = <1000>;
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
