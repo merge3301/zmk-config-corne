@@ -20,6 +20,8 @@
             require-prior-idle-ms = <1000>;
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
+
+            quick-tap-ms = <1000>;
         };
     };
 
