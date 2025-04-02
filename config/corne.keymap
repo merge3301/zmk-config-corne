@@ -39,7 +39,7 @@
 &kp TAB          &kp Q         &kp W            &kp E         &kp R            &kp T               &kp Y              &kp U        &kp I          &kp O            &kp P                 &kp LEFT_BRACKET
 &kp C_AC_SEARCH  &htk GLOBE A  &htk LEFT_ALT S  &htk LCTRL D  &htk LEFT_GUI F  &kp G               &kp H              &htk LGUI J  &htk LCTRL K   &htk LEFT_ALT L  &htk GLOBE SEMICOLON  &kp SQT
 &kp GRAVE        &kp Z         &kp X            &kp C         &kp V            &kp B               &kp N              &kp M        &kp COMMA      &kp DOT          &kp FSLH              &kp RIGHT_BRACKET
-                                                &kt ESCAPE    &mo 1            &htk LSHFT SPACE    &htk LSHIFT ENTER  &mo 2        &kt BACKSPACE
+                                                &kp ESCAPE    &mo 1            &htk LSHFT SPACE    &htk LSHIFT ENTER  &mo 2        &kp BACKSPACE
             >;
         };
 
